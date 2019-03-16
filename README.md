@@ -7,3 +7,5 @@ Visual Studio でコンパイルしたい場合は、x64を設定し、プロジ
 C/C++のコード生成の「拡張命令セットを有効にする」に「Advanced Vector Extensions 2」を
 設定してコンパイルして下さい。また、CPUがAVX、SSE、BMI命令をサポートしていない場合は、
 samuraicoding2016.hpp の　USE_AVX、USE_SSE、USE_BMI の#defineをコメントアウトして下さい。
+
+本AIに関する論文を書きました。興味がある方は<a href="https://www.jstage.jst.go.jp/article/jssst/36/1/36_119/_article/-char/ja">こちら</a>のリンクからどうぞ。
