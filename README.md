@@ -9,3 +9,5 @@ C/C++のコード生成の「拡張命令セットを有効にする」に「Adv
 samuraicoding2016.hpp の　USE_AVX、USE_SSE、USE_BMI の#defineをコメントアウトして下さい。
 
 本AIに関する論文を書きました。興味がある方は<a href="https://www.jstage.jst.go.jp/article/jssst/36/1/36_119/_article/-char/ja">こちら</a>のリンクからどうぞ。
+
+2017年度、2018年度のsamuraicoding の AI　も公開しました。
