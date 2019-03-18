@@ -11,3 +11,5 @@ samuraicoding2016.hpp の　USE_AVX、USE_SSE、USE_BMI の#defineをコメン�
 本AIに関する論文を書きました。興味がある方は<a href="https://www.jstage.jst.go.jp/article/jssst/36/1/36_119/_article/-char/ja">こちら</a>のリンクからどうぞ。
 
 2019/3/17: 2017年度、2018年度の samuraicoding の AI も公開しました。
+
+質問やコメントがあればissueのほうに書いてください。
